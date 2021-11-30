@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "deadtrace",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
